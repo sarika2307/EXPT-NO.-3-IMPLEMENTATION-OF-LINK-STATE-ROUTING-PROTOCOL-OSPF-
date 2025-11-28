@@ -5,9 +5,16 @@ To connect computers in multiple networks using Open Shortest Path First Routing
 
 # EQUIPMENTS REQUIRED
 
+<img width="737" height="230" alt="image" src="https://github.com/user-attachments/assets/391d6af3-552b-4458-986a-7e59df87ae69" />
+
+
 # IP ASSIGNMENT
 
+<img width="985" height="429" alt="image" src="https://github.com/user-attachments/assets/43c96bd2-5862-43a7-a332-b679cae89286" />
+
 # NETWORK DIAGRAM
+
+<img width="1006" height="617" alt="image" src="https://github.com/user-attachments/assets/4e077a34-0dfa-466a-abaf-e9bd1ce9a2d4" />
 
 
 # PROCEDURE
@@ -24,6 +31,10 @@ STEP 11: Check the routing table in Delhi router and Chennai router using show i
 # OUTPUT
 
 
+<img width="940" height="620" alt="image" src="https://github.com/user-attachments/assets/89514825-83c2-4217-8411-21b32a33fe48" />
+
+
+<img width="940" height="630" alt="image" src="https://github.com/user-attachments/assets/8630e1e8-e30e-4b5b-a623-6688a221e405" />
 
 # RESULT
 Thus the computers in multiple networks using Open Shortest Path First Routing Protocol is connected and the connectivity between the computers is verified.
